@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hobeal
-- 👀 I’m interested in ... laravel
-- 🌱 I’m currently learning ... laravel
+- 👀 I’m interested in ... python
+- 🌱 I’m currently learning ... django
 - 💞️ I’m looking to collaborate on ... proyects
 
 <!---
