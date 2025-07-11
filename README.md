@@ -4,7 +4,7 @@
 
 
 - 👀 I’m interested in ... python
-- 🌱 I’m currently learning ... django
+- 🌱 I’m currently learning ... FastAPI
 - 💞️ I’m looking to collaborate on new proyects to learn more.
 
 
